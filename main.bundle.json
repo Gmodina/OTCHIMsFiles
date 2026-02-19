@@ -1,0 +1,28 @@
+{
+	"url": [
+		{
+			"url": "https://eapi.pcloud.com/getpubzip?code=kZ0Eu3ZLgM4lMXYACjz0omQYiWbdkuG8INk",
+			"folder": "mods",
+			"fileName": "update.zip",
+			"installationPolicy":
+			{
+				"extract": true,
+				"deleteAfterExtract": true,
+				"modpackVersion": "1.0.4"
+			}
+		},
+		{
+			"url": "https://eapi.pcloud.com/getpubzip?code=kZU6u3Zrq624rP5LSLaavHYBClWORa3ydD7",
+			"folder": "mods",
+			"fileName": "first.zip",
+			"installationPolicy":
+			{
+				"extract": true,
+				"deleteAfterExtract": true,
+				"modpackVersion": "1.0.0"
+			}
+			
+		}
+	
+	]
+}
