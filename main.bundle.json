@@ -2,7 +2,7 @@
 	"url": [
 		{
 			"url": "https://eapi.pcloud.com/getpubzip?code=kZ0Eu3ZLgM4lMXYACjz0omQYiWbdkuG8INk",
-			"folder": "mods",
+			"folder": "./",
 			"fileName": "update.zip",
 			"installationPolicy":
 			{
@@ -13,7 +13,7 @@
 		},
 		{
 			"url": "https://eapi.pcloud.com/getpubzip?code=kZU6u3Zrq624rP5LSLaavHYBClWORa3ydD7",
-			"folder": "mods",
+			"folder": "./",
 			"fileName": "first.zip",
 			"installationPolicy":
 			{
